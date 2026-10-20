@@ -1,0 +1,15 @@
+# Python 3.10 o superior
+langchain>=1.0,<2
+langchain-core>=1.0,<2
+langchain-community>=0.4
+langchain-google-genai>=4.0,<5
+langchain-text-splitters>=1.0
+pypdf>=5.0
+tiktoken>=0.8
+jsonschema>=4.20
+requests>=2.31
+pandas>=2.2
+matplotlib>=3.8
+python-dotenv>=1.0
+ipykernel>=6.29
+notebook>=7.0

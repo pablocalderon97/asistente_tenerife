@@ -1,0 +1,16 @@
+# Secretos
+.env
+
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos generados al ejecutar el notebook
+data/index/
+logs/*.log
+
+# Sistema
+.DS_Store
